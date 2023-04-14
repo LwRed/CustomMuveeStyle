@@ -2,6 +2,8 @@
 Custom Muvee Reveal Style for Audio Clips by SoftSteph ;)
 This Custom Theme is very configurable and work for Many of yours video needs
 
+=> Installation : copy folder in "C:\Program Files (x86)\Common Files\muvee Technologies\071203"
+
 
 V8 - Initial Public Version
 - Animations : Random between Blur Fx, Fade To White Fx and Shake Fx
