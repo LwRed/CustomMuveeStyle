@@ -150,11 +150,12 @@
 ;   Transitions
 ;   - bottom 35% of music loudness:
 ;     - cut
-;     - crossfade-tx
+;     - dissolve-tx
 ;   - between 35% and 80% of music loudness:
-;     - fade-to-white-tx
-;     - crossfade-tx
 ;     - cut
+;     - dissolve-tx
+;     - crossfade-tx
+;     - blur-tx
 ;   - top-20% of music loudness:
 ;     - hexagonal explode
 ;     - fade-to-white-tx
