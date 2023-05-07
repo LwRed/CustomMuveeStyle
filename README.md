@@ -27,3 +27,7 @@ V12 :
 
 V13 :
 - Crossfade-tc effect replace the ugly blur-tx effect
+
+V14 :
+- Added dissolve-tx effect
+- Correction of Blur-tx effect and reintroduction in random effects
