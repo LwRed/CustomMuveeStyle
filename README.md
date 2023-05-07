@@ -24,3 +24,6 @@ V11 :
 
 V12 :
 - Color Scheme : many options apply to Video Segments and now Intro and Outro
+
+V13 :
+- Crossfade-tc effect replace the ugly blur-tx effect
