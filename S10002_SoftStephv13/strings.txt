@@ -1,0 +1,473 @@
+﻿STYLENAME	de-DE	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	en-US	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	es-ES	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	fr-FR	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	it-IT	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	ja-JP	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	ko-KR	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	nl-NL	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	pt-BR	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	pt-PT	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	ru-RU	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	sv-SE	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	zh-CN	Muvee Custom Style by SoftSteph ;) -  V13
+STYLENAME	zh-TW	Muvee Custom Style by SoftSteph ;) -  V13
+STYLEDESC	de-DE	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	en-US	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	es-ES	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	fr-FR	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	it-IT	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	ja-JP	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	ko-KR	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	nl-NL	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	pt-BR	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	pt-PT	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	ru-RU	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	sv-SE	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	zh-CN	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+STYLEDESC	zh-TW	Scan Line Effect, Text Translate Effect, Color Scheme on Intro & Outro
+
+AVERAGE_SPEED	de-DE	Tempo
+AVERAGE_SPEED	en-US	Pace
+AVERAGE_SPEED	es-ES	Ritmo
+AVERAGE_SPEED	fr-FR	Rythme
+AVERAGE_SPEED	it-IT	Ritmo
+AVERAGE_SPEED	ja-JP	ペース
+AVERAGE_SPEED	ko-KR	페이스
+AVERAGE_SPEED	nl-NL	Snelheid
+AVERAGE_SPEED	pt-BR	Ritmo
+AVERAGE_SPEED	pt-PT	Ritmo
+AVERAGE_SPEED	ru-RU	Скорость
+AVERAGE_SPEED	sv-SE	Hastighet
+AVERAGE_SPEED	zh-CN	速度
+AVERAGE_SPEED	zh-TW	速度
+AVERAGE_SPEED_MIN	de-DE	Langsam
+AVERAGE_SPEED_MIN	en-US	Slow
+AVERAGE_SPEED_MIN	es-ES	Lento
+AVERAGE_SPEED_MIN	fr-FR	Lent
+AVERAGE_SPEED_MIN	it-IT	Lento
+AVERAGE_SPEED_MIN	ja-JP	遅い
+AVERAGE_SPEED_MIN	ko-KR	느림
+AVERAGE_SPEED_MIN	nl-NL	Langzaam
+AVERAGE_SPEED_MIN	pt-BR	Lenta
+AVERAGE_SPEED_MIN	pt-PT	Lento
+AVERAGE_SPEED_MIN	ru-RU	Низкая
+AVERAGE_SPEED_MIN	sv-SE	Långsam
+AVERAGE_SPEED_MIN	zh-CN	慢
+AVERAGE_SPEED_MIN	zh-TW	緩慢
+AVERAGE_SPEED_MAX	de-DE	Schnell
+AVERAGE_SPEED_MAX	en-US	Fast
+AVERAGE_SPEED_MAX	es-ES	Rápido
+AVERAGE_SPEED_MAX	fr-FR	Rapide
+AVERAGE_SPEED_MAX	it-IT	Veloce
+AVERAGE_SPEED_MAX	ja-JP	速い
+AVERAGE_SPEED_MAX	ko-KR	빠름
+AVERAGE_SPEED_MAX	nl-NL	Snel
+AVERAGE_SPEED_MAX	pt-BR	Rápida
+AVERAGE_SPEED_MAX	pt-PT	Rápido
+AVERAGE_SPEED_MAX	ru-RU	Высокая
+AVERAGE_SPEED_MAX	sv-SE	Snabb
+AVERAGE_SPEED_MAX	zh-CN	快
+AVERAGE_SPEED_MAX	zh-TW	快速
+
+MUSIC_RESPONSE	de-DE	Der Musik entsprechend
+MUSIC_RESPONSE	en-US	Response to music
+MUSIC_RESPONSE	es-ES	Respuesta a la música
+MUSIC_RESPONSE	fr-FR	Réponse à la musique
+MUSIC_RESPONSE	it-IT	Risposta alla musica
+MUSIC_RESPONSE	ja-JP	音楽とのマッチ
+MUSIC_RESPONSE	ko-KR	음악에 맞게
+MUSIC_RESPONSE	nl-NL	Reactie op muziek
+MUSIC_RESPONSE	pt-BR	Resposta para música
+MUSIC_RESPONSE	pt-PT	Resposta à música
+MUSIC_RESPONSE	ru-RU	Синхронизация с музыкой
+MUSIC_RESPONSE	sv-SE	Respons på musik
+MUSIC_RESPONSE	zh-CN	对音乐的响应
+MUSIC_RESPONSE	zh-TW	回應音樂
+MUSIC_RESPONSE_MIN	de-DE	Weniger
+MUSIC_RESPONSE_MIN	en-US	Less
+MUSIC_RESPONSE_MIN	es-ES	Menos
+MUSIC_RESPONSE_MIN	fr-FR	Moins
+MUSIC_RESPONSE_MIN	it-IT	Meno
+MUSIC_RESPONSE_MIN	ja-JP	少ない
+MUSIC_RESPONSE_MIN	ko-KR	적음
+MUSIC_RESPONSE_MIN	nl-NL	Minder
+MUSIC_RESPONSE_MIN	pt-BR	Menos
+MUSIC_RESPONSE_MIN	pt-PT	Menos
+MUSIC_RESPONSE_MIN	ru-RU	Меньше
+MUSIC_RESPONSE_MIN	sv-SE	Mindre
+MUSIC_RESPONSE_MIN	zh-CN	较少
+MUSIC_RESPONSE_MIN	zh-TW	較少
+MUSIC_RESPONSE_MAX	de-DE	Mehr
+MUSIC_RESPONSE_MAX	en-US	More
+MUSIC_RESPONSE_MAX	es-ES	Más
+MUSIC_RESPONSE_MAX	fr-FR	Plus
+MUSIC_RESPONSE_MAX	it-IT	Più
+MUSIC_RESPONSE_MAX	ja-JP	多い
+MUSIC_RESPONSE_MAX	ko-KR	많음
+MUSIC_RESPONSE_MAX	nl-NL	Meer
+MUSIC_RESPONSE_MAX	pt-BR	Mais
+MUSIC_RESPONSE_MAX	pt-PT	Mais
+MUSIC_RESPONSE_MAX	ru-RU	Больше
+MUSIC_RESPONSE_MAX	sv-SE	Fler
+MUSIC_RESPONSE_MAX	zh-CN	较多
+MUSIC_RESPONSE_MAX	zh-TW	較多
+
+TV_SCAN_LINES	de-DE	Fernsehlinien
+TV_SCAN_LINES	en-US	Television scan lines
+TV_SCAN_LINES	es-ES	Líneas de exploración de televisión
+TV_SCAN_LINES	fr-FR	Lignes de balayage télévision
+TV_SCAN_LINES	it-IT	Linee di scansione televisiva
+TV_SCAN_LINES	ja-JP	テレビの走査線
+TV_SCAN_LINES	ko-KR	TV 주사선
+TV_SCAN_LINES	nl-NL	Televisie'-strepen
+TV_SCAN_LINES	pt-BR	Linhas de varredura da televisão
+TV_SCAN_LINES	pt-PT	Linhas de varrimento de televisor
+TV_SCAN_LINES	ru-RU	Строки телевизионной развертки
+TV_SCAN_LINES	sv-SE	TV-sveplinjer
+TV_SCAN_LINES	zh-CN	电视扫描线
+TV_SCAN_LINES	zh-TW	電視掃描線
+
+EXPLODE			de-DE	Add Shake Effect on Transitions
+EXPLODE			en-US	Add Shake Effect on Transitions
+EXPLODE			es-ES	Add Shake Effect on Transitions
+EXPLODE			fr-FR	Ajoute un Effet Shake aux Transitions
+EXPLODE			it-IT	Add Shake Effect on Transitions
+EXPLODE			ja-JP	Add Shake Effect on Transitions
+EXPLODE			ko-KR	Add Shake Effect on Transitions
+EXPLODE			nl-NL	Add Shake Effect on Transitions
+EXPLODE			pt-BR	Add Shake Effect on Transitions
+EXPLODE			pt-PT	Add Shake Effect on Transitions
+EXPLODE			ru-RU	Add Shake Effect on Transitions
+EXPLODE			sv-SE	Add Shake Effect on Transitions
+EXPLODE			zh-CN	Add Shake Effect on Transitions
+EXPLODE			zh-TW	Add Shake Effect on Transitions
+
+TEXT_SLIDE			de-DE	Translate Effect on Texts
+TEXT_SLIDE			en-US	Translate Effect on Texts
+TEXT_SLIDE			es-ES	Translate Effect on Texts
+TEXT_SLIDE			fr-FR	Effet de Translation sur Textes
+TEXT_SLIDE			it-IT	Translate Effect on Texts
+TEXT_SLIDE			ja-JP	Translate Effect on Texts
+TEXT_SLIDE			ko-KR	Translate Effect on Texts
+TEXT_SLIDE			nl-NL	Translate Effect on Texts
+TEXT_SLIDE			pt-BR	Translate Effect on Texts
+TEXT_SLIDE			pt-PT	Translate Effect on Texts
+TEXT_SLIDE			ru-RU	Translate Effect on Texts
+TEXT_SLIDE			sv-SE	Translate Effect on Texts
+TEXT_SLIDE			zh-CN	Translate Effect on Texts
+TEXT_SLIDE			zh-TW	Translate Effect on Texts
+
+
+SATURATION	de-DE	Farbsättigung
+SATURATION	en-US	Color saturation
+SATURATION	es-ES	Saturación de color
+SATURATION	fr-FR	Saturation des couleurs
+SATURATION	it-IT	Saturazione del colore
+SATURATION	ja-JP	彩度
+SATURATION	ko-KR	색 채도
+SATURATION	nl-NL	Kleurverzadiging
+SATURATION	pt-BR	Saturação de cor
+SATURATION	pt-PT	Saturação de cor
+SATURATION	ru-RU	Насыщенность света
+SATURATION	sv-SE	Färgmättnad
+SATURATION	zh-CN	颜色饱和度
+SATURATION	zh-TW	色彩飽和度
+
+SATURATION_MIN	de-DE	Monochrom
+SATURATION_MIN	en-US	Monochrome
+SATURATION_MIN	es-ES	Monocromo
+SATURATION_MIN	fr-FR	Monochrome
+SATURATION_MIN	it-IT	Monocromo
+SATURATION_MIN	ja-JP	モノクローム
+SATURATION_MIN	ko-KR	흑백
+SATURATION_MIN	nl-NL	Monochroom
+SATURATION_MIN	pt-BR	Monocromático
+SATURATION_MIN	pt-PT	Monocromática
+SATURATION_MIN	ru-RU	Одноцветный
+SATURATION_MIN	sv-SE	Monokrom
+SATURATION_MIN	zh-CN	单色
+SATURATION_MIN	zh-TW	單色
+SATURATION_MAX	de-DE	Gesättigt
+SATURATION_MAX	en-US	Saturated
+SATURATION_MAX	es-ES	Saturado
+SATURATION_MAX	fr-FR	Saturé
+SATURATION_MAX	it-IT	Saturo
+SATURATION_MAX	ja-JP	最大
+SATURATION_MAX	ko-KR	포화된
+SATURATION_MAX	nl-NL	Verzadigd
+SATURATION_MAX	pt-BR	Saturado
+SATURATION_MAX	pt-PT	Intensa
+SATURATION_MAX	ru-RU	Насыщенный
+SATURATION_MAX	sv-SE	Mättad
+SATURATION_MAX	zh-CN	饱和
+SATURATION_MAX	zh-TW	著色
+
+COLOR_EFFECT	de-DE	Farbeffekt
+COLOR_EFFECT	en-US	Color effect
+COLOR_EFFECT	es-ES	Efecto de color
+COLOR_EFFECT	fr-FR	Effet couleur
+COLOR_EFFECT	it-IT	Effetto cromatico
+COLOR_EFFECT	ja-JP	カラー効果
+COLOR_EFFECT	ko-KR	색상 효과
+COLOR_EFFECT	nl-NL	Kleureffect
+COLOR_EFFECT	pt-BR	Efeito de cor
+COLOR_EFFECT	pt-PT	Efeito cromático
+COLOR_EFFECT	ru-RU	Цветовой эффект
+COLOR_EFFECT	sv-SE	Färgeffekt
+COLOR_EFFECT	zh-CN	颜色效果
+COLOR_EFFECT	zh-TW	選取色效
+
+None	de-DE	Kein
+None	en-US	None
+None	es-ES	Ninguno
+None	fr-FR	Aucun
+None	it-IT	Nessuna
+None	ja-JP	なし
+None	ko-KR	없음
+None	nl-NL	Geen
+None	pt-BR	Nenhuma
+None	pt-PT	Nenhuma
+None	ru-RU	Нет
+None	sv-SE	Ingen
+None	zh-CN	无
+None	zh-TW	無
+
+AquaBlue	de-DE	Aquablau
+AquaBlue	en-US	Aqua blue
+AquaBlue	es-ES	Azul aguamarina
+AquaBlue	fr-FR	Bleu eau
+AquaBlue	it-IT	Blu acqua
+AquaBlue	ja-JP	アクアブルー
+AquaBlue	ko-KR	아쿠아 블루
+AquaBlue	nl-NL	Aquablauw
+AquaBlue	pt-BR	Azul água
+AquaBlue	pt-PT	Azul aqua
+AquaBlue	ru-RU	Лазурный
+AquaBlue	sv-SE	Vattenblå
+AquaBlue	zh-CN	水蓝色
+AquaBlue	zh-TW	水藍
+
+BlueShift	de-DE	Blauverschiebung
+BlueShift	en-US	Blue shift
+BlueShift	es-ES	Cambio de azul
+BlueShift	fr-FR	Décalage vers le bleu
+BlueShift	it-IT	Spostamento verso il blu
+BlueShift	ja-JP	ブルー
+BlueShift	ko-KR	청색 이동
+BlueShift	nl-NL	Blauwverschuiving
+BlueShift	pt-BR	Desvio para o azul
+BlueShift	pt-PT	Transição a azul
+BlueShift	ru-RU	Голубое смещение
+BlueShift	sv-SE	Blå skift
+BlueShift	zh-CN	偏蓝
+BlueShift	zh-TW	藍移
+
+Charcoal	de-DE	Kohle
+Charcoal	en-US	Charcoal
+Charcoal	es-ES	Carboncillo
+Charcoal	fr-FR	Fusain
+Charcoal	it-IT	Antracite
+Charcoal	ja-JP	チャコール
+Charcoal	ko-KR	목탄
+Charcoal	nl-NL	Houtskool
+Charcoal	pt-BR	Carvão
+Charcoal	pt-PT	Carvão
+Charcoal	ru-RU	Темно-серый
+Charcoal	sv-SE	Skiffer
+Charcoal	zh-CN	木炭色
+Charcoal	zh-TW	深灰
+
+CoolCyan	de-DE	Kühles zyan
+CoolCyan	en-US	Cool cyan
+CoolCyan	es-ES	Cian frío
+CoolCyan	fr-FR	Cyan clair
+CoolCyan	it-IT	Ciano freddo
+CoolCyan	ja-JP	シアン
+CoolCyan	ko-KR	쿨 사이언
+CoolCyan	nl-NL	Cyaankleurig
+CoolCyan	pt-BR	Ciano claro
+CoolCyan	pt-PT	Aazul fresco
+CoolCyan	ru-RU	Голубой
+CoolCyan	sv-SE	Sval cyan
+CoolCyan	zh-CN	冷青色
+CoolCyan	zh-TW	湛藍
+
+GreenShift	de-DE	Grünverschiebung
+GreenShift	en-US	Green shift
+GreenShift	es-ES	Cambio de verde
+GreenShift	fr-FR	Décalage vers le vert
+GreenShift	it-IT	Spostamento verso il verde
+GreenShift	ja-JP	グリーン
+GreenShift	ko-KR	녹색 이동
+GreenShift	nl-NL	Groenverschuiving
+GreenShift	pt-BR	Desvio para o verde
+GreenShift	pt-PT	Transição a verde
+GreenShift	ru-RU	Зеленое смещение
+GreenShift	sv-SE	Grön skift
+GreenShift	zh-CN	偏绿
+GreenShift	zh-TW	綠移
+GreenFire	de-DE	Grünes feuer
+GreenFire	en-US	Green fire
+GreenFire	es-ES	Fuego verde
+GreenFire	fr-FR	Flamme verte
+GreenFire	it-IT	Fuoco verde
+GreenFire	ja-JP	グリーンファイア
+GreenFire	ko-KR	녹색 불꽃
+GreenFire	nl-NL	Vurig groen
+GreenFire	pt-BR	Verde fluorescente
+GreenFire	pt-PT	Fogo verde
+GreenFire	ru-RU	Зеленый огонь
+GreenFire	sv-SE	Grön eld
+GreenFire	zh-CN	黄绿色
+GreenFire	zh-TW	綠色火焰
+
+Mauve	de-DE	Malve
+Mauve	en-US	Mauve
+Mauve	es-ES	Malva
+Mauve	fr-FR	Mauve
+Mauve	it-IT	Malva
+Mauve	ja-JP	藤色
+Mauve	ko-KR	연 자주색
+Mauve	nl-NL	Mauve
+Mauve	pt-BR	Lilás
+Mauve	pt-PT	Cor-de-malva
+Mauve	ru-RU	Сиреневый
+Mauve	sv-SE	Ljuslila
+Mauve	zh-CN	紫红色
+Mauve	zh-TW	淡紫
+
+PurpleHaze	de-DE	Purpurschleier
+PurpleHaze	en-US	Purple haze
+PurpleHaze	es-ES	Bruma morada
+PurpleHaze	fr-FR	Brume violette
+PurpleHaze	it-IT	Foschia viola
+PurpleHaze	ja-JP	パープル
+PurpleHaze	ko-KR	퍼플 헤이즈
+PurpleHaze	nl-NL	Paarse nevel
+PurpleHaze	pt-BR	Névoa roxa
+PurpleHaze	pt-PT	Bruma roxa
+PurpleHaze	ru-RU	Фиолетовый
+PurpleHaze	sv-SE	Purpurviolett
+PurpleHaze	zh-CN	雾紫色
+PurpleHaze	zh-TW	紫紅
+
+RedShift	de-DE	Rotverschiebung
+RedShift	en-US	Red shift
+RedShift	es-ES	Cambio de rojo
+RedShift	fr-FR	Décalage vers le rouge
+RedShift	it-IT	Spostamento verso il rosso
+RedShift	ja-JP	レッド
+RedShift	ko-KR	적색 이동
+RedShift	nl-NL	Roodverschuiving
+RedShift	pt-BR	Desvio para o vermelho
+RedShift	pt-PT	Transição a vermelho
+RedShift	ru-RU	Красное смещение
+RedShift	sv-SE	Röd skift
+RedShift	zh-CN	偏红
+RedShift	zh-TW	紅移
+
+SandyBrown	de-DE	Sandbraun
+SandyBrown	en-US	Sandy brown
+SandyBrown	es-ES	Marrón arena
+SandyBrown	fr-FR	Brun sable
+SandyBrown	it-IT	Marrone sabbia
+SandyBrown	ja-JP	ブラウン
+SandyBrown	ko-KR	샌디 브라운
+SandyBrown	nl-NL	Zandkleurig
+SandyBrown	pt-BR	Marrom arenoso
+SandyBrown	pt-PT	Castanho areia
+SandyBrown	ru-RU	Песочный цвет
+SandyBrown	sv-SE	Sandbrun
+SandyBrown	zh-CN	沙褐色
+SandyBrown	zh-TW	黃褐
+
+Sepia	de-DE	Sepia (Tipp: Sättigung auf Monochrom setzen)
+Sepia	en-US	Sepia (Tip: Set Saturation to Monochrome)
+Sepia	es-ES	Sepia (Sugerencia: Ajustar saturación en monocromo)
+Sepia	fr-FR	Sépia (Conseil : réglez la saturation sur Monochrome)
+Sepia	it-IT	Seppia (Suggerimento: impostare la saturazione su Monocromo)
+Sepia	ja-JP	セピア (ヒント: 彩度をモノクロームに設定します)
+Sepia	ko-KR	세피아 (팁: 채도를 흑백으로 설정)
+Sepia	nl-NL	Sepia (Tip: stel Verzadiging in op Monochroom)
+Sepia	pt-BR	Sépia (Dica: Definir saturação para monocromático)
+Sepia	pt-PT	Sépia (Sugestão: Definir a Saturação para Monocromático)
+Sepia	ru-RU	Выцветший (Совет. Установить для насыщенности цвета значение "Одноцветный")
+Sepia	sv-SE	Sepiabrunt (Tips: Ställ in mättnaden till monokrom)
+Sepia	zh-CN	棕褐色 (提示:将饱和度设为单色)
+Sepia	zh-TW	深褐 (秘訣：設定單色飽和度)
+
+SunsetGlow	de-DE	Abendrot
+SunsetGlow	en-US	Sunset glow
+SunsetGlow	es-ES	Luz de atardecer
+SunsetGlow	fr-FR	Lueur du crépuscule
+SunsetGlow	it-IT	Bagliore del tramonto
+SunsetGlow	ja-JP	サンセット
+SunsetGlow	ko-KR	노을
+SunsetGlow	nl-NL	Gloed van ondergaande zon
+SunsetGlow	pt-BR	Brilho do pôr-do-sol
+SunsetGlow	pt-PT	Pôr-do-sol cintilante
+SunsetGlow	ru-RU	Цвет заката
+SunsetGlow	sv-SE	Solnedgångsglöd
+SunsetGlow	zh-CN	晚霞色
+SunsetGlow	zh-TW	夕陽
+
+YellowTint	de-DE	Gelbstich
+YellowTint	en-US	Yellow tint
+YellowTint	es-ES	Tinte amarillo
+YellowTint	fr-FR	Teinte jaune
+YellowTint	it-IT	Tinta gialla
+YellowTint	ja-JP	イエロー
+YellowTint	ko-KR	노란 색조
+YellowTint	nl-NL	Gele tint
+YellowTint	pt-BR	Tonalidade amarela
+YellowTint	pt-PT	Tom amarelo
+YellowTint	ru-RU	Желтый
+YellowTint	sv-SE	Gul nyans
+YellowTint	zh-CN	淡黄色
+YellowTint	zh-TW	黃色調
+
+COLOR_STRENGTH	de-DE	Stärke des farbeffekts
+COLOR_STRENGTH	en-US	Strength of color effect
+COLOR_STRENGTH	es-ES	Intensidad de efecto de color
+COLOR_STRENGTH	fr-FR	Intensité de l’effet couleur
+COLOR_STRENGTH	it-IT	Intensità dell'effetto cromatico
+COLOR_STRENGTH	ja-JP	カラー効果の強さ
+COLOR_STRENGTH	ko-KR	색상 효과 강도
+COLOR_STRENGTH	nl-NL	Sterkte van kleureffect
+COLOR_STRENGTH	pt-BR	Força do efeito de cor
+COLOR_STRENGTH	pt-PT	Intensidade do efeito cromático
+COLOR_STRENGTH	ru-RU	Сила цветового эффекта
+COLOR_STRENGTH	sv-SE	Färgeffektens intensitet
+COLOR_STRENGTH	zh-CN	颜色效果的强度
+COLOR_STRENGTH	zh-TW	選取色效濃度
+
+COLOR_STRENGTH_MIN	de-DE	Kein
+COLOR_STRENGTH_MIN	en-US	None
+COLOR_STRENGTH_MIN	es-ES	Ninguno
+COLOR_STRENGTH_MIN	fr-FR	Aucun
+COLOR_STRENGTH_MIN	it-IT	Nessuna
+COLOR_STRENGTH_MIN	ja-JP	なし
+COLOR_STRENGTH_MIN	ko-KR	없음
+COLOR_STRENGTH_MIN	nl-NL	Geen
+COLOR_STRENGTH_MIN	pt-BR	Nenhuma
+COLOR_STRENGTH_MIN	pt-PT	Nenhuma
+COLOR_STRENGTH_MIN	ru-RU	Нет
+COLOR_STRENGTH_MIN	sv-SE	Ingen
+COLOR_STRENGTH_MIN	zh-CN	无
+COLOR_STRENGTH_MIN	zh-TW	無
+
+COLOR_STRENGTH_MAX	de-DE	Max.
+COLOR_STRENGTH_MAX	en-US	Max
+COLOR_STRENGTH_MAX	es-ES	Máx.
+COLOR_STRENGTH_MAX	fr-FR	Max
+COLOR_STRENGTH_MAX	it-IT	Massima
+COLOR_STRENGTH_MAX	ja-JP	最大
+COLOR_STRENGTH_MAX	ko-KR	최대
+COLOR_STRENGTH_MAX	nl-NL	Max.
+COLOR_STRENGTH_MAX	pt-BR	Máximo
+COLOR_STRENGTH_MAX	pt-PT	Máx
+COLOR_STRENGTH_MAX	ru-RU	Макс.
+COLOR_STRENGTH_MAX	sv-SE	Max
+COLOR_STRENGTH_MAX	zh-CN	最大值
+COLOR_STRENGTH_MAX	zh-TW	最大
