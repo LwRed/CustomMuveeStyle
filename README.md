@@ -56,7 +56,7 @@ muSE - short for 'muvee Symbolic Expressions' - is a Scheme dialect intended for
 
 Highlight: muSE is used as an embedded language to specify the "styles" in muvee Reveal, launched on 11 June 2008
 
-
+https://code.google.com/archive/p/muvee-symbolic-expressions/
 
 
 
