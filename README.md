@@ -51,6 +51,12 @@ Copy folder in "C:\Program Files (x86)\Common Files\muvee Technologies\071203"
 - Optional Handwriting Texts
 
 
+# WHAT is muSE
+muSE - short for 'muvee Symbolic Expressions' - is a Scheme dialect intended for use as an embedded language. It has some unique language features such as first class macros, simple general read-time evaluation syntax, vectors and hashtables that can be used as functions, and extensive use of pattern matching bind.
+
+Highlight: muSE is used as an embedded language to specify the "styles" in muvee Reveal, launched on 11 June 2008
+
+
 
 
 
