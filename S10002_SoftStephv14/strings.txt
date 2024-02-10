@@ -128,20 +128,20 @@ TV_SCAN_LINES	sv-SE	TV-sveplinjer
 TV_SCAN_LINES	zh-CN	电视扫描线
 TV_SCAN_LINES	zh-TW	電視掃描線
 
-EXPLODE			de-DE	Add Shake Effect on Transitions
-EXPLODE			en-US	Add Shake Effect on Transitions
-EXPLODE			es-ES	Add Shake Effect on Transitions
-EXPLODE			fr-FR	Ajoute un Effet Shake aux Transitions
-EXPLODE			it-IT	Add Shake Effect on Transitions
-EXPLODE			ja-JP	Add Shake Effect on Transitions
-EXPLODE			ko-KR	Add Shake Effect on Transitions
-EXPLODE			nl-NL	Add Shake Effect on Transitions
-EXPLODE			pt-BR	Add Shake Effect on Transitions
-EXPLODE			pt-PT	Add Shake Effect on Transitions
-EXPLODE			ru-RU	Add Shake Effect on Transitions
-EXPLODE			sv-SE	Add Shake Effect on Transitions
-EXPLODE			zh-CN	Add Shake Effect on Transitions
-EXPLODE			zh-TW	Add Shake Effect on Transitions
+EXPLODE			de-DE	Explode Effect on High sounds
+EXPLODE			en-US	Explode Effect on High sounds
+EXPLODE			es-ES	Explode Effect on High sounds
+EXPLODE			fr-FR	Effet Explosion sur sons forts
+EXPLODE			it-IT	Explode Effect on High sounds
+EXPLODE			ja-JP	Explode Effect on High sounds
+EXPLODE			ko-KR	Explode Effect on High sounds
+EXPLODE			nl-NL	Explode Effect on High sounds
+EXPLODE			pt-BR	Explode Effect on High sounds
+EXPLODE			pt-PT	Explode Effect on High sounds
+EXPLODE			ru-RU	Explode Effect on High sounds
+EXPLODE			sv-SE	Explode Effect on High sounds
+EXPLODE			zh-CN	Explode Effect on High sounds
+EXPLODE			zh-TW	Explode Effect on High sounds
 
 TEXT_SLIDE			de-DE	Translate Effect on Texts
 TEXT_SLIDE			en-US	Translate Effect on Texts
